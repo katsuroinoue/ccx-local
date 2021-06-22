@@ -1,2 +1,2 @@
 # ccx
-[plugin](/docx/plugin.ja.md)
+[plugin](/docs/plugin.ja.md)
