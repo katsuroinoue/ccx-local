@@ -40,8 +40,9 @@ Please read this document for the usage of CCX.
 
 Also, to add new analysis tools to CCX as plug-ins, please refer to the following document.
 
-Specification of the plugin
+[Specification of the plugin](/docs/)
 
-For more information about CCX, please refer to the following
+For more information about CCX, please refer to the above paper.
 
-Translated with www.DeepL.com/Translator (free version)
+
+
