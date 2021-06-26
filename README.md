@@ -35,12 +35,13 @@ The CCX operated at Osaka University can be used at the following URL. Currently
 [Log-in to the Osaka University CCX](https://sel.ist.osaka-u.ac.jp/webapps/ccx/login)
 
 Please read this document for the usage of CCX.
+
 [How to use CCX](/docs/usage.en.md)
 
 
 Also, to add new analysis tools to CCX as plug-ins, please refer to the following document.
 
-[Specification of the plugin](/docs/)
+[Specification of the plugin (only Japanese)](/docs/plugin.ja.md)
 
 For more information about CCX, please refer to the above paper.
 
